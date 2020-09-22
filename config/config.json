@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "courseexpress",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "rlyygwimznwxvj",
+    "password": "4fdba7fa77f57e334ae2665b7eb8d72aea33117ee357cd1f18b934600d755e40",
+    "database": "dfplqkfoldab60",
+    "port": "5432",
+    "host": "ec2-23-23-242-234.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "protocol": "postgres"
+  }
+}
